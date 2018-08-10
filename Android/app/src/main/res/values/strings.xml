@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">This is Native Android</string>
+    <string name="button_name_1">To First Flutter View!</string>
+    <string name="button_name_2">To Second Flutter View!</string>
+
+    <!-- Strings denoting Flutter entry point keys -->
+    <string name="flutter_entry_1">FlutterEntry1</string>
+    <string name="flutter_entry_2">FlutterEntry2</string>
+</resources>

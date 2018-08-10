@@ -1,0 +1,6 @@
+Flutter/FlutterConfig.xcconfig
+SharedPrecompiledHeaders/
+
+BaseApp.build/
+Debug-iphoneos/
+Debug-iphonesimulator/
